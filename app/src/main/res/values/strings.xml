@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">LoginPage_Assignment</string>
+    <string name="app_name">Food Runner</string>
+    <string name="name">Enter Name</string>
+    <string name="number">Enter Mobile Number</string>
+    <string name="password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Don\'t have an ccount?Sign up now</string>
+    <string name="register_page">Register Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="address">Enter Destination Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forget_password">Forgot Password</string>
+    <string name="statement">Enter your registered mobile number and email below:</string>
 </resources>
